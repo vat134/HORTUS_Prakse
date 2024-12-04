@@ -4,7 +4,7 @@ codeunit 80006 TaxCalculationCodeunit
     var
         Tax: Integer;
     begin
-        if (Sum <= 0) or (Percent < 0) then begin
+        if (Sum <= 0) or (Percent < 0) or (Percent > 100) then begin
             Message('Lūdzu, ievadiet derīgas vērtības Summ un Procents.');
             exit;
         end;
