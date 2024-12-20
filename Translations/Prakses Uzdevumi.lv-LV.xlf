@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="lv-LV" original="Prakses Uzdevumi.g.xlf">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 2876943422 - Field 3520291455 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Availability Status</source>
+          <target>Pieejamības statuss</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Availability Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2876943422 - Field 205031553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Daily Rental Fee</source>
+          <target>Dienas nomas maksa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Daily Rental Fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2876943422 - Field 3461834954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <target>Apraksts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Description - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2876943422 - Field 4119363961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment ID</source>
+          <target>Iekārtas ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Equipment ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2876943422 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nosaukums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2876943422 - Field 2165211516 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unavailable until</source>
+          <target>Nav pieejams līdz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Equipment - Field Unavailable until - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959234904 - Field 4253087169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>API Key</source>
+          <target>API atslēga</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Gemini Settings - Field API Key - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1959234904 - Field 3518260935 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Model Version</source>
+          <target>Modeļa versija</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Gemini Settings - Field Model Version - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 594151205 - Field 3192175264 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target>Datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Inventory Value History - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 594151205 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Līnijas Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Inventory Value History - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 594151205 - Field 830213579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Value</source>
+          <target>Kopējā vērtība</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Inventory Value History - Field Total Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3346365350 - Field 636392376 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Amount</source>
+          <target>Daudzums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Payment - Field Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3346365350 - Field 2230809246 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Type</source>
+          <target>Maksājuma tips</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Payment - Field PaymentType - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 658834475 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pet</source>
+          <target>Mājdzīvnieks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Pet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 658834475 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Vārds</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Pet - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 658834475 - Field 1525413924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pet No.</source>
+          <target>Mājdzīvnieks Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Pet - Field PetNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 658834475 - Field 486205436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vet Name</source>
+          <target>Vet vārds</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Pet - Field VetName - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 658834475 - Field 2714646654 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Vet No.</source>
+          <target>Vet Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Pet - Field VetVendorNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 2178352694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Buy date</source>
+          <target>Pirkšanas datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Buy date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 3320823955 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Line No.</source>
+          <target>Līnijas Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Line No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 1775710806 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Section</source>
+          <target>Produktu sadaļa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Product Section - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 3164211949 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Type</source>
+          <target>Produkta tips</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Product Type - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 3164211949 - Property 62802879" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Drink, Food</source>
+          <target>Dzērieni, Ēdiens</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Product Type - Property OptionCaption</note>
+        </trans-unit>
+        <trans-unit id="Table 2240321778 - Field 2716979219 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shop Id</source>
+          <target>Veikals Id</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product Schedule - Field Shop Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 182798482 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <target>Nosaukums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product_Sections - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 182798482 - Field 2792239528 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>ProductSectionsId</source>
+          <target>ProduktaSadaļasId</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Product_Sections - Field ProductSectionsId - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 4083601637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agreement ID</source>
+          <target>Līguma ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field Agreement ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 2239210435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID</source>
+          <target>Klienta ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field Customer ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target>Beigu datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 4119363961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment ID</source>
+          <target>Iekārtas ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field Equipment ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target>Sākuma datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2922369282 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Statuss</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 4083601637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agreement ID</source>
+          <target>Līguma ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Agreement ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 2239210435 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer ID</source>
+          <target>Klienta ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Customer ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 1171137197 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Customer Name</source>
+          <target>Klienta vārds</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Customer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 3597926595 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day period</source>
+          <target>Dienas periods</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Day period - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 2649176925 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Date</source>
+          <target>Beigu datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field End Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 4119363961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment ID</source>
+          <target>Iekārtas ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Equipment ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 3959337615 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment Name</source>
+          <target>Iekārtas nosaukums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Equipment Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 3304080466 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Rental Fee</source>
+          <target>Nomas maksa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Rental Fee - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 474480784 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Date</source>
+          <target>Sākuma datums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Start Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 513339096 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status</source>
+          <target>Statuss</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1111800624 - Field 3692706522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Amount</source>
+          <target>Kopējā summa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement Details - Field Total Amount - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 945210680 - Field 3970350934 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Date</source>
+          <target>Mainīt datumu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement History - Field Change Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 945210680 - Field 1068547009 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>History ID</source>
+          <target>Vēstures ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement History - Field History ID - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 945210680 - Field 2955941580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Status</source>
+          <target>Jauns statuss</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement History - Field New Status - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 945210680 - Field 3369789712 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Reason</source>
+          <target>Iemesls</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement History - Field Reason - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 945210680 - Field 4136694740 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Unavailible until</source>
+          <target>Nav pieejams līdz</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Rental Agreement History - Field Unavailible until - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225609534 - Field 2961552353 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shop Name</source>
+          <target>Veikala nosaukums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ShopTable - Field Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1225609534 - Field 217096642 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Shop_id</source>
+          <target>Veikala_ID</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table ShopTable - Field Shop_id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451750549 - Field 714791889 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City</source>
+          <target>Pilsēta</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WeatherForecast - Field City - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451750549 - Field 4200184881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target>Nr.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WeatherForecast - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451750549 - Field 161418408 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Request Time</source>
+          <target>Pieprasījuma laiks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WeatherForecast - Field Request Time - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451750549 - Field 657157522 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Temperature (C)</source>
+          <target>Temperatūra (C)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WeatherForecast - Field Temperature (C) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1451750549 - Field 192940637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wind Speed (m/s)</source>
+          <target>Vēja ātrums (m/s)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table WeatherForecast - Field Wind Speed (m/s) - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2495370802 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status inputs</source>
+          <target>Stāvokļa ievadi</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Agreement dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 115240257 - Control 636392376 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the amount to convert.</source>
+          <target>Ievadiet konvertējamo summu.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Converter - Control Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115240257 - Control 1457785726 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>The result of the conversion.</source>
+          <target>Konvertēšanas rezultāts.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Converter - Control Converted Amount - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115240257 - Control 560190622 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the source currency (e.g., USD).</source>
+          <target>Ievadiet avota valūtu (piemēram, USD).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Converter - Control Source Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115240257 - Control 2372655106 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter the target currency (e.g., EUR).</source>
+          <target>Ievadiet mērķa valūtu (piemēram, EUR).</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Converter - Control Target Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 115240257 - Action 3417371833 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Convert</source>
+          <target>Konvertēt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Currency Converter - Action Convert - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3469150458 - Control 465600048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agreement History</source>
+          <target>Līguma vēsture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment Card - Control AgreementHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3469150458 - Control 318613646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment Details</source>
+          <target>Detalizēta informācija par aprīkojumu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment Card - Control Details - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3469150458 - Control 154502736 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Agreement Status History</source>
+          <target>Līguma statusa vēsture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment Card - Control EquipmentStatusHistory - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3469150458 - Control 3123527090 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Equipment Info</source>
+          <target>Informācija par aprīkojumu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment Card - Control Info - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3535655822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status inputs</source>
+          <target>Stāvokļa ievades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1106721148 - Action 3073631509 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Equipment</source>
+          <target>Pievienot aprīkojumu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment List - Action AddEquipment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1106721148 - Action 1080453686 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Change Status</source>
+          <target>Mainīt statusu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Equipment List - Action ChangeStatus - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1181661947 - Control 1303940957 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter request here.</source>
+          <target>Ievadiet pieprasījumu šeit.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gemini dialogue - Control Input Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1181661947 - Control 912091569 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Enter a query to work with the source. (Salaries_instruction)</source>
+          <target>Ievadiet pieprasījumu darbam ar avotu. (Algas_instrukcija)</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gemini dialogue - Control Input_Promt_Text - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1181661947 - Action 1178913785 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send basic request</source>
+          <target>Nosūtīt parastu pieprasījumu </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gemini dialogue - Action Send basic request - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1181661947 - Action 4087743645 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send request with protm</source>
+          <target>Nosūtīt pieprasījumu ar protm</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gemini dialogue - Action Send request with protm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2500383579 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gemini Setup</source>
+          <target>Gemini iestatīšana</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Gemini_Setup - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 594151205 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Inventory Value History</source>
+          <target>Inventāra vērtības vēsture</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Inventory Value History - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target>Ievads</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 961937402 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of years</source>
+          <target>Gadu skaits</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Number_of_years - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 3900201624 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <target>Alga</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Salary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 3961040049 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Output</source>
+          <target>Izvads</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Output - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 3159925034 - Property 1295455071" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculates your monthly paycheck based on how much you have received over the specified years</source>
+          <target>Aprēķina jūsu ikmēneša algu, pamatojoties uz to, cik daudz esat saņēmis norādīto gadu laikā.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Salary_mounth - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Control 3159925034 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary/mounth</source>
+          <target>Alga/mēnesī</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Control Salary_mounth - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Action 183555182 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pages Navigation</source>
+          <target>Lapu navigācija</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Action Pages Navigation - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Action 2846204132 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>HelloWorld</source>
+          <target>SveiksPasaule</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Action HelloWorld - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Action 2909452778 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>NewField</source>
+          <target>JaunsLauks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Action NewField - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Action 3049640769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>TablePet</source>
+          <target>TabulaMājdzīvnieks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Action TablePet - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1121534999 - Action 2337961084 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Calculate salary</source>
+          <target>Aprēķināt algu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PageAction - Action Calculate salary - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 375133987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Payment Page</source>
+          <target>Maksājumu lapa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PaymentPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 375133987 - Action 865012024 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Payment BankTransfer</source>
+          <target>Maksājuma apstrāde BankasPārskaitījums </target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PaymentPage - Action ProcessPaymentBankTransfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 375133987 - Action 2991089128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Payment PayPal</source>
+          <target>Maksājuma apstrāde PayPal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PaymentPage - Action ProcessPaymentPayPal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 375133987 - Action 3000766188 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Process Payment Stripe</source>
+          <target>Maksājuma apstrāde Stripe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page PaymentPage - Action ProcessPaymentStripe - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3833866517 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Pet List</source>
+          <target>Mājdzīvnieku saraksts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Pet List - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1890395048 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Product Schedule List</source>
+          <target>Produktu grafiku saraksts</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ProductScheduleList - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1588050336 - Action 910086553 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Add Agreement</source>
+          <target>Pievienot līgumu</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Agreement List - Action AddAgreement - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1588050336 - Action 788258546 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Cancel</source>
+          <target>Atcelt</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Agreement List - Action Cancel - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1588050336 - Action 2866370222 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Rent Today</source>
+          <target>Nomas beigt šodien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Agreement List - Action EndRent - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1588050336 - Action 743942932 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Send an e-mail</source>
+          <target>Nosūtīt e-pasta vēstuli</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Rental Agreement List - Action SendEmail - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2814308280 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Status inputs</source>
+          <target>Stāvokļa ievades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Status dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2172392270 - Control 3567459362 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Input</source>
+          <target>Ievads</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TaxCalculatorPage - Control Input - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2172392270 - Control 2328811254 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Procents</source>
+          <target>Procents</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TaxCalculatorPage - Control Procents - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2172392270 - Control 1520559954 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Summ</source>
+          <target>Summa</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TaxCalculatorPage - Control Summ - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2172392270 - Action 2923624270 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Aprēķināt nodokli</source>
+          <target>Aprēķināt nodokli</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page TaxCalculatorPage - Action Aprēķināt nodokli - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2504904436 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>City input</source>
+          <target>Pilsēta ievade</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Weather dialog - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2730717876 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Weather Forecast</source>
+          <target>Laika prognoze</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WeatherForecastPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2730717876 - Action 273682769 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Check the weather</source>
+          <target>Pārbaudiet laikapstākļus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page WeatherForecastPage - Action CheckTheWeather - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1388399005 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>What is my IP address</source>
+          <target>Kāda ir mana IP adrese</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page What is my IP address - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1388399005 - Control 3510957723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Currecnt IP address</source>
+          <target>Esošā IP adrese</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page What is my IP address - Control IP - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3850753449 - Action 2885247305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Calculate cost</source>
+          <target>Aprēķināt izmaksas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListFilter - Action CalculateCost - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3850753449 - Action 1047251511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Get Selection Filters</source>
+          <target>Iegūt atlases filtrus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListFilter - Action GetSelectionFilters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3850753449 - Action 3121244078 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Set Filter</source>
+          <target>Uzstādīt filtru</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListFilter - Action setfilter - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 3850753449 - Action 3343445439 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Page 4178721393">
+          <source>Set two filters</source>
+          <target>Uzstādiet divus filtrus</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension ItemListFilter - Action SetTwoFilters - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="TableExtension 3817553838 - Field 2976024242 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve" al-object-target="Table 3276313895">
+          <source>New field</source>
+          <target>Jauns lauks</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">TableExtension ItemTableExt - Field New field - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 859238749 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-1.5-flash</source>
+          <target>gemini-1.5-flash</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-1.5-flash - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 2719720016 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-1.5-flash-8b</source>
+          <target>gemini-1.5-flash-8b</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-1.5-flash-8b - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 107130082 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-1.5-pro</source>
+          <target>gemini-1.5-pro</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-1.5-pro - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 884652895 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-2.0-flash-exp</source>
+          <target>gemini-2.0-flash-exp</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-2.0-flash-exp - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 1263883770 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-2.0-flash-thinking-exp-1219</source>
+          <target>gemini-2.0-flash-thinking-exp-1219</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-2.0-flash-thinking-exp-1219 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 3691909011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>gemini-exp-1206</source>
+          <target>gemini-exp-1206</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue gemini-exp-1206 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 4202919636 - EnumValue 2949752237 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>learnlm-1.5-pro-experimental</source>
+          <target>learnlm-1.5-pro-experimental</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum GeminiVersions - EnumValue learnlm-1.5-pro-experimental - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2230809246 - EnumValue 3548252839 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Bank Transfer</source>
+          <target>Bankas Pārskaitījums</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PaymentType - EnumValue BankTransfer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2230809246 - EnumValue 3745486695 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PayPal</source>
+          <target>PayPal</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PaymentType - EnumValue PayPal - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 2230809246 - EnumValue 2193091483 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Stripe</source>
+          <target>Stripe</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="NAB AL Tool Refresh Xlf" annotates="general" priority="3">New translation.</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum PaymentType - EnumValue Stripe - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
