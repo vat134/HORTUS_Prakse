@@ -34,7 +34,7 @@ page 80023 "KnightMovesPage"
                     if not IsValidPosition(KnightPosition) then
                         Error('Invalid position. Please enter a valid chess board position (example: E4).');
 
-                    Message('The knight has %1 valid moves.', CalculateKnightMoves(KnightPosition));
+                    Message('The knight has %1.', CalculateKnightMoves(KnightPosition));
                 end;
             }
         }
@@ -55,15 +55,18 @@ page 80023 "KnightMovesPage"
         exit((Column >= 'A') and (Column <= 'H') and (Row >= 1) and (Row <= 8));
     end;
 
-    local procedure CalculateKnightMoves(Position: Text[2]): Integer
+    local procedure CalculateKnightMoves(Position: Text[2]): Text
     var
         Column: Integer;
         Row: Integer;
-        ValidMoves: Integer;
         MoveOffsets: array[8, 2] of Integer;
         i: Integer;
         NewColumn: Integer;
         NewRow: Integer;
+        PossibleMoves: List of [Text];
+        MoveText: Text;
+        ResultText: Text;
+        ValidMoves: Integer;
     begin
         MoveOffsets[1, 1] := 2;
         MoveOffsets[1, 2] := 1;
@@ -84,19 +87,28 @@ page 80023 "KnightMovesPage"
 
         Column := StrPos('ABCDEFGH', UpperCase(Position[1]));
         Row := Position[2] - '0';
-
         ValidMoves := 0;
 
         for i := 1 to 8 do begin
             NewColumn := Column + MoveOffsets[i, 1];
             NewRow := Row + MoveOffsets[i, 2];
 
-            if (NewColumn >= 1) and (NewColumn <= 8) and
-               (NewRow >= 1) and (NewRow <= 8) then
+            if (NewColumn >= 1) and (NewColumn <= 8) and (NewRow >= 1) and (NewRow <= 8) then begin
+                MoveText := Format(CopyStr('ABCDEFGH', NewColumn, 1)) + Format(NewRow);
+                PossibleMoves.Add(MoveText);
                 ValidMoves := ValidMoves + 1;
+            end;
         end;
+        ResultText := '';
+        ResultText += Format(ValidMoves) + ' valid moves: ';
+        foreach MoveText in PossibleMoves do begin
+            ResultText += MoveText + ', ';
+        end;
+        if StrLen(ResultText) > 0 then
+            ResultText := CopyStr(ResultText, 1, StrLen(ResultText) - 2);
 
-        exit(ValidMoves);
+
+        exit(ResultText);
     end;
 
     var
