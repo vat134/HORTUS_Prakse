@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<E-Document>
+	<Header>
+		<DateIssued>2024-11-01</DateIssued>
+		<SenderID>40006752854</SenderID>
+		<SenderPeppolID>1111:11111111</SenderPeppolID>     <!-- Use only, if you want to send eInvoice to receiver in Peppol network -->
+		<ReceiverPeppolID>2222:22222222</ReceiverPeppolID> <!-- Use only, if you want to send eInvoice to receiver in Peppol network -->
+		<ReceiverRegNum>40900007951</ReceiverRegNum>
+		<ReceiverCountryCode>LV</ReceiverCountryCode>
+		<ReceiverEAddress>_DEFAULT@40900007951</ReceiverEAddress> <!-- Use only, if you want to send eInvoice to receiver in Latvian e-Address system -->
+	</Header>
+	<Document>
+		<DocumentType>invoice</DocumentType>
+		<DocumentParties>
+			<SellerParty context="partner">
+				<PartyCode>40006752854</PartyCode>
+				<AdditionalPartyReferences>
+					<AdditionalPartyReference schemeId="LV_EADDRESS">_PRIVATE@40203162078</AdditionalPartyReference> <!-- Use only, if you want to send eInvoice to receiver in Latvian e-Address system -->
+				</AdditionalPartyReferences>
+				<PartyPeppolId>1111:11111111</PartyPeppolId> <!-- Use only, if you want to send eInvoice to receiver in Peppol network -->
+				<Name>MyCompany SIA</Name>
+				<RegNum>40006752854</RegNum>
+				<VATRegNum>LV40006752854</VATRegNum>
+				<ContactData>
+					<ActualAddress>
+						<Address1>Biksēres iela 41</Address1>
+						<City>Rīga</City>
+						<PostalCode>LV-1004</PostalCode>
+						<Country>Latvija</Country>
+						<CountryCode>LV</CountryCode>
+					</ActualAddress>
+				</ContactData>
+				<AccountInfo>
+					<AccountNum>LV12HABA0140803321780</AccountNum>
+					<BankName>Swedbank AS</BankName>
+				</AccountInfo>
+			</SellerParty>
+			<BuyerParty context="partner">
+				<PartyCode>40203162078</PartyCode>
+				<AdditionalPartyReferences>
+					<AdditionalPartyReference schemeId="LV_EADDRESS">_DEFAULT@40900007951</AdditionalPartyReference> <!-- Use only, if you want to send eInvoice to receiver in Latvian e-Address system -->
+				</AdditionalPartyReferences>
+				<PartyPeppolId>2222:22222222</PartyPeppolId> <!-- Use only, if you want to send eInvoice to receiver in Peppol network -->
+				<Name>RAUNAS PAGASTA BIBLIOTĒKA</Name>
+				<RegNum>40900007951</RegNum>
+				<VATRegNum>LV40900007951</VATRegNum>
+				<ContactData>
+					<ActualAddress>
+						<Address1>Rīgas iela 2</Address1>
+						<City>Rīga</City>
+						<PostalCode>LV-4131</PostalCode>
+						<Country>Latvija</Country>
+						<CountryCode>LV</CountryCode>
+					</ActualAddress>
+				</ContactData>
+			</BuyerParty>
+		</DocumentParties>
+
+		<DocumentInfo>
+			<DocumentSubType>DEB</DocumentSubType>
+			<DocumentName>eInvoice</DocumentName>
+			<DocumentNum>503024499-2411</DocumentNum>
+			<DateInfo>
+				<InvoiceDate>2024-11-01</InvoiceDate>
+				<DueDate>2024-11-19</DueDate>
+			</DateInfo>
+			<Attachments>
+				<File>
+					<FileName>503024499-2411_20241.pdf</FileName>
+					<FileType>application/pdf</FileType>
+					<FileBase64>LS1sb2wtLQ==</FileBase64>
+					<FileEncryption>no</FileEncryption>
+					<FileSize>48464</FileSize>
+				</File>
+			</Attachments>
+			<DocumentUID>503024499-2411</DocumentUID>
+		</DocumentInfo>
+
+		<DocumentSumGroup>
+			<Balance>
+				<BalanceDate>2024-11-01</BalanceDate>
+				<BalanceBegin>0.00</BalanceBegin>
+			</Balance>
+			<DocumentSum>33.70</DocumentSum>
+			<VAT vatID="TAX">
+				<SumBeforeVAT>33.70</SumBeforeVAT>
+				<VATRate>21</VATRate>
+				<VATSum>7.08</VATSum>
+				<Currency>EUR</Currency>
+			</VAT>
+			<TotalSum>40.78</TotalSum>
+			<Currency>EUR</Currency>
+		</DocumentSumGroup>
+
+		<DocumentItem>
+			<ItemEntry>
+				<ItemDescription>503024499-2411 Invoice line #1</ItemDescription>
+				<BaseUnit>gab</BaseUnit>
+				<AmountInvoiced>1</AmountInvoiced>
+				<ItemPrice>33.70</ItemPrice>
+				<ItemSum>33.70</ItemSum>
+				<VAT vatID="TAX">
+					<SumBeforeVAT>33.70</SumBeforeVAT>
+					<VATRate>21</VATRate>
+					<VATSum>7.08</VATSum>
+				</VAT>
+				<ItemTotal>40.78</ItemTotal>
+			</ItemEntry>
+		</DocumentItem>
+
+		<PaymentInfo>
+			<Currency>EUR</Currency>
+			<PaymentDescription>503024499-2411</PaymentDescription>
+			<Payable>YES</Payable>
+			<PayDueDate>2024-11-19</PayDueDate>
+			<PaymentTotalSum>40.78</PaymentTotalSum>
+			<PayerName>RAUNAS PAGASTA BIBLIOTĒKA</PayerName>
+			<PaymentID>503024499-2411</PaymentID>
+			<PayToAccount>LV12HABA0140801321700</PayToAccount>
+			<PayToName>MyCompany SIA</PayToName>
+		</PaymentInfo>
+
+	</Document>
+</E-Document>
