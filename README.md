@@ -12,7 +12,8 @@ No noderīgām lietām, ko es uzrakstīju, bija dažas programmas, objektu nomas
 
 2/14/2025 update
 
-Laika prognožu API darbam ir pievienota funkcionalitāte, tagad galvenajā BC lapā ir pieejams lauks, kurā tiek parādīti jaunākie laikapstākļi pēdējā pārbaudītajā pilsētā. 
+- Laika prognožu API darbam ir pievienota funkcionalitāte, tagad galvenajā BC lapā ir pieejams lauks, kurā tiek parādīti jaunākie laikapstākļi pēdējā pārbaudītajā pilsētā. 
+- BusinessManagerHeadlineExt.al Pievienoti 2 lauki Headline, kas tiekas sākumlapā
 
 **_Izmantotās tehnoloģijas_**
 
