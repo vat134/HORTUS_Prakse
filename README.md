@@ -10,6 +10,10 @@ Divu nedēļu darba laikā HORTUS es iemācījos jaunu valodu AL, ar kuru tagad 
 
 No noderīgām lietām, ko es uzrakstīju, bija dažas programmas, objektu nomas sistēma, E-pasta sūtīšana ar informāciju no Business central tabulām, API lapas, piemēram, valūtas konvertors, laika prognoze, darbs ar AI gemini. Vislielākās grūtības man sagādāja priekšmetu nomas sistēma, jo es neapzinājos, cik lielu projektu rakstīju, un nedomāju, ka man to vajadzēs pabeigt, tāpēc es to uztvēru kā pārbaudes uzdevumu. Visvairāk man patika strādāt ar mākslīgo intelektu un API, jo brīvajā laikā centos apgūt un strādāt ar šiem rīkiem, un šeit sanāca izmantot mākslīgo intelektu sava veida uzdevumam, integrējot to Business Central sistēmā. Arī pēdējā dienā es pievienoju tulkojumu 90% no manis izveidotajiem paplašinājumiem. (Daudzi tulkojumi nav redzami, jo nosaukumi nebija norādīti kodā un mainīgo automātiskie nosaukumi tika izmantoti angļu valodā). 
 
+2/14/2025 update
+
+Laika prognožu API darbam ir pievienota funkcionalitāte, tagad galvenajā BC lapā ir pieejams lauks, kurā tiek parādīti jaunākie laikapstākļi pēdējā pārbaudītajā pilsētā. 
+
 **_Izmantotās tehnoloģijas_**
 
 - Programmēšanas valodas: AL
