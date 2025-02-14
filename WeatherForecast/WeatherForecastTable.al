@@ -1,4 +1,4 @@
-table 80000 WeatherForecast
+table 80006 WeatherForecast
 {
     DataClassification = ToBeClassified;
 

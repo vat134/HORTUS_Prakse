@@ -1,4 +1,4 @@
-page 80001 WeatherForecastPage
+page 80009 WeatherForecastPage
 {
     PageType = List;
     ApplicationArea = All;

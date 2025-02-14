@@ -1,4 +1,4 @@
-page 80004 "Weather dialog"
+page 80008 "Weather dialog"
 {
     PageType = StandardDialog;
     Caption = 'City input';
